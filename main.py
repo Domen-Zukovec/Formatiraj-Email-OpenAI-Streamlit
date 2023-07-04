@@ -6,8 +6,8 @@ import os
 
 os.environ["OPENAI_API_TYPE"] = "azure"
 os.environ["OPENAI_API_VERSION"] = "2023-03-15-preview"
-os.environ["OPENAI_API_BASE"] = "https://domzisopenai.openai.azure.com/"
-os.environ["OPENAI_API_KEY"] = "3673181a896c4997baba06bc82db5e6f"
+os.environ["OPENAI_API_BASE"] = st.secrets["AZ_BASE"]
+os.environ["OPENAI_API_KEY"] = st.secrets["AZ_KEY"]
 
 template = """
 Below is an email that may be poorly worded.
