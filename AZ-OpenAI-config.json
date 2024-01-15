@@ -301,7 +301,7 @@
     },
     {
       "name": "OPENAI_RESOURCE_ENDPOINT",
-      "value": "$$$_key",
+      "value": "$$$_endpoint",
       "slotSetting": false
     },
     {
