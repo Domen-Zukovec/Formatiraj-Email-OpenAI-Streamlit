@@ -1,0 +1,452 @@
+[
+    {
+      "name": "ADA_002_EMBED_NUM_DIMS",
+      "value": "1536",
+      "slotSetting": false
+    },
+    {
+      "name": "ADA_002_EMBEDDING_MODEL",
+      "value": "text-embedding-ada-002",
+      "slotSetting": false
+    },
+    {
+      "name": "ADA_002_MODEL_MAX_TOKENS",
+      "value": "4095",
+      "slotSetting": false
+    },
+    {
+      "name": "ADA_EMBEDDING_ENCODING",
+      "value": "cl100k_base",
+      "slotSetting": false
+    },
+    {
+      "name": "APPINSIGHTS_INSTRUMENTATIONKEY",
+      "value": "$$$_appins_key",
+      "slotSetting": true
+    },
+    {
+      "name": "APPLICATIONINSIGHTS_CONNECTION_STRING",
+      "value": "$$$_appins_connection_string",
+      "slotSetting": false
+    },
+    {
+      "name": "AzureFunctionsWebHost__hostid",
+      "value": "$$$_function_speficif_host_id",
+      "slotSetting": false
+    },
+    {
+      "name": "AzureWebJobs.AzCogSearchDocCrackingFunc.Disabled",
+      "value": "0",
+      "slotSetting": false
+    },
+    {
+      "name": "AzureWebJobs.BotQnAHTTPFunc.Disabled",
+      "value": "0",
+      "slotSetting": false
+    },
+    {
+      "name": "AzureWebJobsDashboard",
+      "value": "$$$_Storage_connection_string",
+      "slotSetting": false
+    },
+    {
+      "name": "AzureWebJobsFeatureFlags",
+      "value": "EnableWorkerIndexing",
+      "slotSetting": false
+    },
+    {
+      "name": "AzureWebJobsStorage",
+      "value": "$$$_Storage_connection_string",
+      "slotSetting": false
+    },
+    {
+      "name": "BING_SEARCH_URL",
+      "value": "https://api.bing.microsoft.com/v7.0/search",
+      "slotSetting": false
+    },
+    {
+      "name": "BING_SUBSCRIPTION_KEY",
+      "value": "",
+      "slotSetting": false
+    },
+    {
+      "name": "BUILD_FLAGS",
+      "value": "UseExpressBuild",
+      "slotSetting": false
+    },
+    {
+      "name": "CATEGORYID",
+      "value": "KM_OAI_CATEGORY",
+      "slotSetting": false
+    },
+    {
+      "name": "CHOSEN_COMP_MODEL",
+      "value": "gpt-35-turbo-16k",
+      "slotSetting": false
+    },
+    {
+      "name": "CHOSEN_EMB_MODEL",
+      "value": "text-embedding-ada-002",
+      "slotSetting": false
+    },
+    {
+      "name": "CHOSEN_QUERY_EMB_MODEL",
+      "value": "text-embedding-ada-002",
+      "slotSetting": false
+    },
+    {
+      "name": "COG_SEARCH_ADMIN_KEY",
+      "value": "$$$_admin_key",
+      "slotSetting": false
+    },
+    {
+      "name": "COG_SEARCH_ENDPOINT",
+      "value": "$$$_endpoint",
+      "slotSetting": false
+    },
+    {
+      "name": "COG_SERV_ENDPOINT",
+      "value": "$$$_endpoint",
+      "slotSetting": false
+    },
+    {
+      "name": "COG_SERV_KEY",
+      "value": "$$$_key",
+      "slotSetting": false
+    },
+    {
+      "name": "CONVERSATION_TTL_SECS",
+      "value": "172800",
+      "slotSetting": false
+    },
+    {
+      "name": "COSMOS_DB_NAME",
+      "value": "KM_OAI_DB",
+      "slotSetting": false
+    },
+    {
+      "name": "COSMOS_KEY",
+      "value": "$$$_key",
+      "slotSetting": false
+    },
+    {
+      "name": "COSMOS_URI",
+      "value": "$$$_uri",
+      "slotSetting": false
+    },
+    {
+      "name": "DATABASE_MODE",
+      "value": "1",
+      "slotSetting": false
+    },
+    {
+      "name": "DAVINCI_003_COMPLETIONS_MODEL",
+      "value": "text-davinci-003",
+      "slotSetting": false
+    },
+    {
+      "name": "DAVINCI_003_EMB_MAX_TOKENS",
+      "value": "2047",
+      "slotSetting": false
+    },
+    {
+      "name": "DAVINCI_003_EMBED_NUM_DIMS",
+      "value": "12288",
+      "slotSetting": false
+    },
+    {
+      "name": "DAVINCI_003_EMBEDDING_MODEL",
+      "value": "text-search-davinci-doc-001",
+      "slotSetting": false
+    },
+    {
+      "name": "DAVINCI_003_MODEL_MAX_TOKENS",
+      "value": "4000",
+      "slotSetting": false
+    },
+    {
+      "name": "DAVINCI_003_QUERY_EMB_MODEL",
+      "value": "text-search-davinci-query-001",
+      "slotSetting": false
+    },
+    {
+      "name": "DAVINCI_EMBEDDING_ENCODING",
+      "value": "p50k_base",
+      "slotSetting": false
+    },
+    {
+      "name": "EMBCATEGORYID",
+      "value": "KM_OAI_EMB_CATEGORY",
+      "slotSetting": false
+    },
+    {
+      "name": "ENABLE_ORYX_BUILD",
+      "value": "true",
+      "slotSetting": false
+    },
+    {
+      "name": "FR_CONTAINER",
+      "value": "kmoaiforms",
+      "slotSetting": false
+    },
+    {
+      "name": "FUNCTIONS_EXTENSION_VERSION",
+      "value": "~4",
+      "slotSetting": false
+    },
+    {
+      "name": "FUNCTIONS_WORKER_RUNTIME",
+      "value": "python",
+      "slotSetting": false
+    },
+    {
+      "name": "GPT35_TURBO_COMPLETIONS_ENCODING",
+      "value": "cl100k_base",
+      "slotSetting": false
+    },
+    {
+      "name": "GPT35_TURBO_COMPLETIONS_MAX_TOKENS",
+      "value": "16386",
+      "slotSetting": false
+    },
+    {
+      "name": "GPT35_TURBO_COMPLETIONS_MODEL",
+      "value": "gpt-35-turbo",
+      "slotSetting": false
+    },
+    {
+      "name": "KB_BLOB_CONN_STR",
+      "value": "$$$_Storage_connection_string",
+      "slotSetting": false
+    },
+    {
+      "name": "KB_BLOB_CONTAINER",
+      "value": "kmoaidemo",
+      "slotSetting": false
+    },
+    {
+      "name": "KB_DATA_SOURCE_NAME",
+      "value": "km-openai-docs",
+      "slotSetting": false
+    },
+    {
+      "name": "KB_INDEX_NAME",
+      "value": "km-openai",
+      "slotSetting": false
+    },
+    {
+      "name": "KB_INDEXER_NAME",
+      "value": "km-openai-indexer",
+      "slotSetting": false
+    },
+    {
+      "name": "KB_SEM_INDEX_NAME",
+      "value": "km-openai-sem",
+      "slotSetting": false
+    },
+    {
+      "name": "KB_SKILLSET_NAME",
+      "value": "km-openai-skills",
+      "slotSetting": false
+    },
+    {
+      "name": "LARGE_EMB_TOKEN_NUM",
+      "value": "0",
+      "slotSetting": false
+    },
+    {
+      "name": "LIST_OF_COMMA_SEPARATED_URLS",
+      "value": "",
+      "slotSetting": false
+    },
+    {
+      "name": "MAX_HISTORY_TOKENS",
+      "value": "1000",
+      "slotSetting": false
+    },
+    {
+      "name": "MAX_OUTPUT_TOKENS",
+      "value": "750",
+      "slotSetting": false
+    },
+    {
+      "name": "MAX_QUERY_TOKENS",
+      "value": "500",
+      "slotSetting": false
+    },
+    {
+      "name": "MAX_SEARCH_TOKENS",
+      "value": "2500",
+      "slotSetting": false
+    },
+    {
+      "name": "MEDIUM_EMB_TOKEN_NUM",
+      "value": "800",
+      "slotSetting": false
+    },
+    {
+      "name": "NUM_TOP_MATCHES",
+      "value": "9",
+      "slotSetting": false
+    },
+    {
+      "name": "NUMBER_PRODUCTS_INDEX",
+      "value": "1000",
+      "slotSetting": false
+    },
+    {
+      "name": "OPENAI_API_KEY",
+      "value": "$$$_key",
+      "slotSetting": false
+    },
+    {
+      "name": "OPENAI_RESOURCE_ENDPOINT",
+      "value": "$$$_key",
+      "slotSetting": false
+    },
+    {
+      "name": "OUTPUT_BLOB_CONTAINER",
+      "value": "kmoaiprocessed",
+      "slotSetting": false
+    },
+    {
+      "name": "OVERLAP_TEXT",
+      "value": "150",
+      "slotSetting": false
+    },
+    {
+      "name": "PRE_CONTEXT",
+      "value": "500",
+      "slotSetting": false
+    },
+    {
+      "name": "PROCESS_IMAGES",
+      "value": "0",
+      "slotSetting": false
+    },
+    {
+      "name": "REDIS_ADDR",
+      "value": "",
+      "slotSetting": false
+    },
+    {
+      "name": "REDIS_INDEX_NAME",
+      "value": "acs_emb_index",
+      "slotSetting": false
+    },
+    {
+      "name": "REDIS_PASSWORD",
+      "value": "",
+      "slotSetting": false
+    },
+    {
+      "name": "REDIS_PORT",
+      "value": "10000",
+      "slotSetting": false
+    },
+    {
+      "name": "RESTRICTIVE_PROMPT",
+      "value": "no",
+      "slotSetting": false
+    },
+    {
+      "name": "SCM_DO_BUILD_DURING_DEPLOYMENT",
+      "value": "1",
+      "slotSetting": false
+    },
+    {
+      "name": "SERVICEBUS_CONN_STR",
+      "value": "$$$_conn_string",
+      "slotSetting": false
+    },
+    {
+      "name": "SMALL_EMB_TOKEN_NUM",
+      "value": "0",
+      "slotSetting": false
+    },
+    {
+      "name": "TRANSLATION_API_KEY",
+      "value": "",
+      "slotSetting": false
+    },
+    {
+      "name": "TRANSLATION_ENDPOINT",
+      "value": "",
+      "slotSetting": false
+    },
+    {
+      "name": "TRANSLATION_LOCATION",
+      "value": "westeurope",
+      "slotSetting": false
+    },
+    {
+      "name": "USE_BING",
+      "value": "no",
+      "slotSetting": false
+    },
+    {
+      "name": "USE_COG_VECSEARCH",
+      "value": "1",
+      "slotSetting": false
+    },
+    {
+      "name": "USE_REDIS_CACHE",
+      "value": "0",
+      "slotSetting": false
+    },
+    {
+      "name": "VECTOR_FIELD_IN_REDIS",
+      "value": "item_vector",
+      "slotSetting": false
+    },
+    {
+      "name": "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING",
+      "value": "$$$_Storage_connection_string",
+      "slotSetting": false
+    },
+    {
+      "name": "WEBSITE_CONTENTSHARE",
+      "value": "$$$_funtion_spefic__use_func_name",
+      "slotSetting": false
+    },
+    {
+      "name": "WEBSITE_ENABLE_SYNC_UPDATE_SITE",
+      "value": "true",
+      "slotSetting": false
+    },
+    {
+      "name": "WEBSITE_HTTPLOGGING_RETENTION_DAYS",
+      "value": "10",
+      "slotSetting": false
+    },
+    {
+      "name": "WEBSITE_MAX_DYNAMIC_APPLICATION_SCALE_OUT",
+      "value": "1",
+      "slotSetting": false
+    },
+    {
+      "name": "WEBSITE_VNET_ROUTE_ALL",
+      "value": "1",
+      "slotSetting": false
+    },
+    {
+      "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE",
+      "value": "true",
+      "slotSetting": false
+    },
+    {
+      "name": "X_LARGE_EMB_TOKEN_NUM",
+      "value": "0",
+      "slotSetting": false
+    },
+    {
+      "name": "XDG_CACHE_HOME",
+      "value": "/tmp/.cache",
+      "slotSetting": false
+    },
+    {
+      "name": "storage_account_name_STORAGE",
+      "value": "$$$_Storage_connection_string___here_you_must_change_the_name_of_the_storage_account_so_the_string_before_STORAGE",
+      "slotSetting": false
+    }
+  ]
