@@ -443,10 +443,5 @@
       "name": "XDG_CACHE_HOME",
       "value": "/tmp/.cache",
       "slotSetting": false
-    },
-    {
-      "name": "storage_account_name_STORAGE",
-      "value": "$$$_Storage_connection_string___here_you_must_change_the_name_of_the_storage_account_so_the_string_before_STORAGE",
-      "slotSetting": false
     }
   ]
