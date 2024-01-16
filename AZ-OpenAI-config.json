@@ -31,7 +31,7 @@
     },
     {
       "name": "AzureFunctionsWebHost__hostid",
-      "value": "$$$_function_speficif_host_id",
+      "value": "$$$_function_speficif_host_id____CheckWhatTheOriginalIsInAzure",
       "slotSetting": false
     },
     {
@@ -406,7 +406,7 @@
     },
     {
       "name": "WEBSITE_CONTENTSHARE",
-      "value": "$$$_funtion_spefic__use_func_name",
+      "value": "$$$_funtion_spefic____use_your_func_app_name",
       "slotSetting": false
     },
     {
